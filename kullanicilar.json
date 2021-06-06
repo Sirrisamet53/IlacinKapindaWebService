@@ -1,0 +1,19 @@
+{
+    "Kullanicilar": [
+        {
+            "AdiSoyadi":"Samet Keleş",
+            "Email":"samet@gmail.com",
+            "Sifre": "654321."
+        },
+        {
+            "AdiSoyadi":"Bahadır Keleş",
+            "Email":"bahadir@gmail.com",
+            "Sifre": "1234567"
+        },
+        {
+            "AdiSoyadi":"Furkan Keleş",
+            "Email":"furkan@gmail.com",
+            "Sifre": "123456789"
+        }
+    ]
+}
