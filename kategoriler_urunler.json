@@ -1,358 +1,715 @@
-[
-  {
+[{
+	"Categories" :[{
 		"categoryName": "Cilt Bakım",
 		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt1.jpg",
-		"Products": [{
-				"categoryName": "Cilt Bakım",
-				"marka": "Neutrogena",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt1.jpg",
-				"boyut": "4 x 50 cm",
-				"fiyat": "37₺",
-				"mensei": "Almanya",
-				"Aciklama": "Nemlendirici tonik etkisi sağlar. Cildin ihtiyaç duyduğu her an, nemlendirmeden önce veya sonra pratik sprey uygulamasıyla kullanılabilir. Nemini kaybetmiş, karma veya sivilcelenmeye yatkın hassas ciltler için uygundur. Mineral Yağ, Silikon ve Sülfat"
-			},
-			{
-				"categoryName": "Cilt Bakım",
-				"marka": "Garnier Skin Naturals",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt2.jpg",
-				"boyut": "2 x 25 cm",
-				"fiyat": "15₺",
-				"mensei": "Malezya",
-				"Aciklama": "Ultra Emici Kömür İle Zenginleştirilmiş Yeni Nesil Formül İnatçı Siyah Noktaları Bile Görünür Şekilde Azaltır, Tekrar Oluşmasını Eng ellemeye Yardımcı Olur.Salisilik Asit İle Zenginleştirilmiş Formül Cildi Yoğun Bir Şekilde Temizler , Kir Ve Pürüzlerden Arındırır."
-			},
-			{
-				"categoryName": "Cilt Bakım",
-				"marka": "Loreal Paris",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt3.jpg",
-				"boyut": "2 x 25 cm",
-				"fiyat": "27₺",
-				"mensei": "Almanya",
-				"Aciklama": "Saf Kilin Eşsiz Birleşimi-Arı Kilcildi Pürüz Ve Fazla Yağdan Arındıran, Yoğun Silikat İçeren Saf Kil.-Montmorillonit Kilicilt Kusur suzlaştırıcı, Mineraller Bakımından Zengin Saf Kil.-Rhassoul Kilicildi Temizlemeye Yardımcı Elementler Bakımından Zengin Saf Kil.L'O réal Paris Labaratuvarları 3 Saf Kili Su Yosunu Özüyle Birleştirdi Ve Cildi Kurutmadan Siyah Noktaları Temizleyen, Gözenekleri Sıkıl aştıran Kremsi Maskeyi Geliştirdi.Hızlı Ve Gözle Görülebilir Sonuçlaranında: Cilt Temizlenir Ve Mat Görünüm Kazanır."
-			},
-			{
-				"categoryName": "Cilt Bakım",
-				"marka": "Nivea",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt4.jpg",
-				"boyut": "4 x 25 cm",
-				"fiyat": "50₺",
-				"mensei": "Kanada",
-				"Aciklama": "Hızlı Emilir Ve Yağlı His Bırakmaz,48 Saat Boyunca Yoğun Nemlendirme Sağlar,Gül Kokusu"
-			},
-			{
-				"categoryName": "Cilt Bakım",
-				"marka": "Garnier Skin Naturals",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt5.jpg",
-				"boyut": "200 ml",
-				"fiyat": "39₺",
-				"mensei": "Malezya",
-				"Aciklama": "200 Ml Saf &Amp; Temiz Siyah Nokta Karşıtı Ultra Emici Kömür , Yaban Mersini Özü Ve Salisilik Asit İçeren Yağlanma Ve Pürüzlere Kar şı Temizleme Jeli-Gözenekleri Arındırır-İnatçı Siyah Noktaları Bile Azaltır-Arındırıcı Kömür-Antioksidan Yaban Mersini Özü"
-			},
-			{
-				"categoryName": "Cilt Bakım",
-				"marka": "Nivea",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt6.jpg",
-				"boyut": "200 ml",
-				"fiyat": "25₺",
-				"mensei": "Kanada",
-				"Aciklama": "Aqua Sensation Temizleme Jeli, Hydra Iq Ve Salatalık Özü İçeren Formülü İle Canlı Ve Dolgun Bir Cilt İçin En İyi Temizleme Etkisini Sağlar.Nazikçe Ve Tamamen Temizler.Derinlemesine Arındırır.Kiri Ve Makyajı Etkili Bir Şekilde Çıkarır. Cildin Doğal Nem Dengesini Ko rur.Cildi Tazeler Ve Cilde Canlanmış Bir Görünüm Verir."
-			}
-		]
-	},
+            "Products": [{
+                "categoryName":"Cilt Bakım",
+                "marka": "Neutrogena",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt1.jpg",
+                "boyut": "4 x 50 cm",
+                "fiyat":"37₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Nemlendirici tonik etkisi sağlar. Cildin ihtiyaç duyduğu her an, nemlendirmeden önce veya sonra pratik sprey uygulamasıyla kullanılabilir. Nemini kaybetmiş, karma veya sivilcelenmeye yatkın hassas ciltler için uygundur. Mineral Yağ, Silikon ve Sülfat"
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Garnier Skin Naturals",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt2.jpg",
+                "boyut": "2 x 25 cm",
+                "fiyat":"15₺",
+                "mensei": "Malezya",
+                "Aciklama" :"Ultra Emici Kömür İle Zenginleştirilmiş Yeni Nesil Formül İnatçı Siyah Noktaları Bile Görünür Şekilde Azaltır, Tekrar Oluşmasını Eng ellemeye Yardımcı Olur.Salisilik Asit İle Zenginleştirilmiş Formül Cildi Yoğun Bir Şekilde Temizler , Kir Ve Pürüzlerden Arındırır."
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Loreal Paris",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt3.jpg",
+                "boyut": "2 x 25 cm",
+                "fiyat":"27₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Saf Kilin Eşsiz Birleşimi-Arı Kilcildi Pürüz Ve Fazla Yağdan Arındıran, Yoğun Silikat İçeren Saf Kil.-Montmorillonit Kilicilt Kusur suzlaştırıcı, Mineraller Bakımından Zengin Saf Kil.-Rhassoul Kilicildi Temizlemeye Yardımcı Elementler Bakımından Zengin Saf Kil.L'O réal Paris Labaratuvarları 3 Saf Kili Su Yosunu Özüyle Birleştirdi Ve Cildi Kurutmadan Siyah Noktaları Temizleyen, Gözenekleri Sıkıl aştıran Kremsi Maskeyi Geliştirdi.Hızlı Ve Gözle Görülebilir Sonuçlaranında: Cilt Temizlenir Ve Mat Görünüm Kazanır."
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Nivea",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt4.jpg",
+                "boyut": "4 x 25 cm",
+                "fiyat":"50₺",
+                "mensei": "Kanada",
+                "Aciklama" :"Hızlı Emilir Ve Yağlı His Bırakmaz,48 Saat Boyunca Yoğun Nemlendirme Sağlar,Gül Kokusu"
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Garnier Skin Naturals",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt5.jpg",
+                "boyut": "200 ml",
+                "fiyat":"39₺",
+                "mensei": "Malezya",
+                "Aciklama" :"200 Ml Saf &Amp; Temiz Siyah Nokta Karşıtı Ultra Emici Kömür , Yaban Mersini Özü Ve Salisilik Asit İçeren Yağlanma Ve Pürüzlere Kar şı Temizleme Jeli-Gözenekleri Arındırır-İnatçı Siyah Noktaları Bile Azaltır-Arındırıcı Kömür-Antioksidan Yaban Mersini Özü"
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Nivea",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt6.jpg",
+                "boyut": "200 ml",
+                "fiyat":"25₺",
+                "mensei": "Kanada",
+                "Aciklama" :"Aqua Sensation Temizleme Jeli, Hydra Iq Ve Salatalık Özü İçeren Formülü İle Canlı Ve Dolgun Bir Cilt İçin En İyi Temizleme Etkisini Sağlar.Nazikçe Ve Tamamen Temizler.Derinlemesine Arındırır.Kiri Ve Makyajı Etkili Bir Şekilde Çıkarır. Cildin Doğal Nem Dengesini Ko rur.Cildi Tazeler Ve Cilde Canlanmış Bir Görünüm Verir."
+            }
+        ]},
 	{
 		"categoryName": "Anne-Bebek",
 		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne1.jpg",
-		"Products": [{
-				"categoryName": "Anne-Bebek",
-				"marka": "Bebelac",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne1.jpg",
-				"boyut": "1 Kg",
-				"fiyat": "100₺",
-				"mensei": "Almanya",
-				"Aciklama": "Bebelac 1, doğduğu aydan itibaren bebeklerin beslenme ihtiyaçları dikkate alınarak geliştirilmiştir. Koruyucu madde ve ilave şeker içermez. Önemli uzun zincirli yağ asitleri (LCPUFA) Omega 3 ve Omega 6 ilave edilmiştir. Kolay çözünebilir formülü sayesinde"
-			},
-			{
-				"categoryName": "Anne-Bebek",
-				"marka": "Uni",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz2.jpg",
-				"boyut": "700 ml",
-				"fiyat": "19₺",
-				"mensei": "Hollanda",
-				"Aciklama": "Uni Baby saç ve vücut şampuanı. Göz yakmayan özel formüle sahiptir. Alkol ve paraben içermez."
-			},
-			{
-				"categoryName": "Anne-Bebek",
-				"marka": "Dalin",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne3.jpg",
-				"boyut": "500 ml",
-				"fiyat": "34₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Klinik testlerle kanıtlanmış, göz yakmayan saf formülü bebeğinize özel olarak geliştirilmiştir. İçeriğindeki papatya özleri cildini rahatlatır. ilk günden itibaren hem saçında hem cildinde güvenle kullanabilir, mis kokulu Dalin banyolarının keyfini çıkarabilirsiniz. + Klinik testlerle yumuşaklığı kanıtlanmıştır. + Hipoalerjeniktir. + Cildin pH değeri ile uyumludur. + Eşsiz papatya özlü parfümüyle mis gibi kokar. - Alkol, paraben, SLS sabun içermez."
-			},
-			{
-				"categoryName": "Anne-Bebek",
-				"marka": "Sebamed",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne4.jpg",
-				"boyut": "500 ml",
-				"fiyat": "59₺",
-				"mensei": "İngiltere",
-				"Aciklama": "Sabun ve alkali madde içermeyen yumuşak formülü ile bebek ve çocukların hassas saç derisi ve saç bakımı için idealdir. pH 5.5 değeri ile cildi zararlı dış etkenlere karşı korur. Yüksek cilt toleransı ve yumuşak temizleme formülü sayesinde kuruluk ve tahriş riskini azaltır. Papatya'dan gelen doğal içeriği sayesinde cildi yatıştırır ve rahatlatır. Sağlıklı saçlar için gerekli bakımı yapar. Saçın güzel kokmasını, ipeksi bir görünüm almasını ve kolay taranmasını sağlar. Gözleri yakmaz fakat şampuanın direk gözle temasından kaçının,gözle temas durumunda derhal bol suyla durulayın.Dermatolojik olarak test edilmiştir."
-			},
-			{
-				"categoryName": "Anne-Bebek",
-				"marka": "Sleepy",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne5.jpg",
-				"boyut": "3 x 50 cm",
-				"fiyat": "14₺",
-				"mensei": "Almanya",
-				"Aciklama": "Sensitive Islak Havlu 3X50"
-			},
-			{
-				"categoryName": "Anne-Bebek",
-				"marka": "Dalin",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne6.jpg",
-				"boyut": "100 ml",
-				"fiyat": "12₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Hindistan Cevizli Vazelin 100ml"
-			}
-		]
+        "Products":[{
+                "categoryName":"Anne-Bebek",
+                "marka": "Bebelac",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne1.jpg",
+                "boyut": "1 Kg",
+                "fiyat":"100₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Bebelac 1, doğduğu aydan itibaren bebeklerin beslenme ihtiyaçları dikkate alınarak geliştirilmiştir. Koruyucu madde ve ilave şeker içermez. Önemli uzun zincirli yağ asitleri (LCPUFA) Omega 3 ve Omega 6 ilave edilmiştir. Kolay çözünebilir formülü sayesinde"
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Uni",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz2.jpg",
+                "boyut": "700 ml",
+                "fiyat":"19₺",
+                "mensei": "Hollanda",
+                "Aciklama" :"Uni Baby saç ve vücut şampuanı. Göz yakmayan özel formüle sahiptir. Alkol ve paraben içermez."
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Dalin",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne3.jpg",
+                "boyut": "500 ml",
+                "fiyat":"34₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Klinik testlerle kanıtlanmış, göz yakmayan saf formülü bebeğinize özel olarak geliştirilmiştir. İçeriğindeki papatya özleri cildini rahatlatır. ilk günden itibaren hem saçında hem cildinde güvenle kullanabilir, mis kokulu Dalin banyolarının keyfini çıkarabilirsiniz. + Klinik testlerle yumuşaklığı kanıtlanmıştır. + Hipoalerjeniktir. + Cildin pH değeri ile uyumludur. + Eşsiz papatya özlü parfümüyle mis gibi kokar. - Alkol, paraben, SLS sabun içermez."
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Sebamed",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne4.jpg",
+                "boyut": "500 ml",
+                "fiyat":"59₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Sabun ve alkali madde içermeyen yumuşak formülü ile bebek ve çocukların hassas saç derisi ve saç bakımı için idealdir. pH 5.5 değeri ile cildi zararlı dış etkenlere karşı korur. Yüksek cilt toleransı ve yumuşak temizleme formülü sayesinde kuruluk ve tahriş riskini azaltır. Papatya'dan gelen doğal içeriği sayesinde cildi yatıştırır ve rahatlatır. Sağlıklı saçlar için gerekli bakımı yapar. Saçın güzel kokmasını, ipeksi bir görünüm almasını ve kolay taranmasını sağlar. Gözleri yakmaz fakat şampuanın direk gözle temasından kaçının,gözle temas durumunda derhal bol suyla durulayın.Dermatolojik olarak test edilmiştir."
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Sleepy",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne5.jpg",
+                "boyut": "3 x 50 cm",
+                "fiyat":"14₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Sensitive Islak Havlu 3X50"
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Dalin",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne6.jpg",
+                "boyut": "100 ml",
+                "fiyat":"12₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Hindistan Cevizli Vazelin 100ml"
+            }
+        ]
 	},
 	{
 		"categoryName": "Ağız-Diş",
 		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz1.jpg",
-		"Products": [{
-				"categoryName": "Ağız-Diş",
-				"marka": "Signal",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz1.jpg",
-				"boyut": "3+1",
-				"fiyat": "29₺",
-				"mensei": "Almanya",
-				"Aciklama": "Signal Megas Action 3+1 Diş Fırçası Yuvarlanmış kıl uçları, fırçalarken daha rahat hareket ettirebilmeniz için kompakt baş, ergonomik sap"
-			},
-			{
-				"categoryName": "Ağız-Diş",
-				"marka": "Rocs",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz2.jpg",
-				"boyut": "1 adet",
-				"fiyat": "35₺",
-				"mensei": "Malezya",
-				"Aciklama": "R.O.C.S. Gum Balm, dişeti bakımı için geliştirilmiş bitkisel balsam formunda diş macunudur. İltihaba karşı etkisi ve antioksidan özellikleri bilinen Kavak Ağacı (Aspen Bark) ekstresi içeriği ile dişetlerini korumaya yardımcı olur. Sodium Bicarbonate içeriği dişeti şişkinliğini azaltırken ağız içi asiditesini normalize eder. Diş minesini yüksek miktardaki kalsiyum ve fosfat ile re-mineralize eder. Huş ağacından elde edilen Ksilitol (%6) içeriği plak oluşumunu azaltır, ağız içi bakteriyel dengeyi normalize eder. Kısa sürede gözle görülür etki sağlar. Florür, triclosan ve klorheksidin içermez."
-			},
-			{
-				"categoryName": "Ağız-Diş",
-				"marka": "Rocs",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz3.jpg",
-				"boyut": "1 adet",
-				"fiyat": "25₺",
-				"mensei": "Malezya",
-				"Aciklama": "R.O.C.S. Black Edition Diş Fırçasının Özel Kıl Yapısı Zincir Formundadır. Bu Kıl Yapısı Diş Fırçasının Temizleme Ve Beyazlatma Özelliğini Artırır. Fırçanın Özel Kıl Kesimi, Diş Fırçasının Arka Dişleri Daha Kolay Ulaşmasına Yardımcı Olur. Siyah Ve Zarif Tasarıma Banyonuza Tarz Katar."
-			},
-			{
-				"categoryName": "Ağız-Diş",
-				"marka": "Listerine",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz4.jpg",
-				"boyut": "500 ml",
-				"fiyat": "26₺",
-				"mensei": "Almanya",
-				"Aciklama": "Tartar Oluşumunu Azaltır Ve Diş Lekesi Oluşmasını Engellemeye Yardımcı Olur. Dişleri Daha Temiz Ve Beyaz Tuttuğu Kanıtlanmıştır."
-			},
-
-			{
-				"categoryName": "Ağız-Diş",
-				"marka": "Listerine",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz5.jpg",
-				"boyut": "500 ml",
-				"fiyat": "35₺",
-				"mensei": "Almanya",
-				"Aciklama": "Günde 2 Kez Kullanıldığında Ağız Sağlığı İçin Gerekli 6 Etkisi İle Komple Ağız Bakımı Sağlar."
-			},
-			{
-				"categoryName": "Ağız-Diş",
-				"marka": "Colgate",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz6.jpg",
-				"boyut": "60 ml",
-				"fiyat": "35₺",
-				"mensei": "İsviçre",
-				"Aciklama": "Diş Macunu Nane 3-5 Yaş 60 ml"
-			}
-		]
+        "Products":[{
+                "categoryName":"Ağız-Diş",
+                "marka": "Signal",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz1.jpg",
+                "boyut": "3+1",
+                "fiyat":"29₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Signal Megas Action 3+1 Diş Fırçası Yuvarlanmış kıl uçları, fırçalarken daha rahat hareket ettirebilmeniz için kompakt baş, ergonomik sap"
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Rocs",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz2.jpg",
+                "boyut": "1 adet",
+                "fiyat":"35₺",
+                "mensei": "Malezya",
+                "Aciklama" :"R.O.C.S. Gum Balm, dişeti bakımı için geliştirilmiş bitkisel balsam formunda diş macunudur. İltihaba karşı etkisi ve antioksidan özellikleri bilinen Kavak Ağacı (Aspen Bark) ekstresi içeriği ile dişetlerini korumaya yardımcı olur. Sodium Bicarbonate içeriği dişeti şişkinliğini azaltırken ağız içi asiditesini normalize eder. Diş minesini yüksek miktardaki kalsiyum ve fosfat ile re-mineralize eder. Huş ağacından elde edilen Ksilitol (%6) içeriği plak oluşumunu azaltır, ağız içi bakteriyel dengeyi normalize eder. Kısa sürede gözle görülür etki sağlar. Florür, triclosan ve klorheksidin içermez."
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Rocs",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz3.jpg",
+                "boyut": "1 adet",
+                "fiyat":"25₺",
+                "mensei": "Malezya",
+                "Aciklama" :"R.O.C.S. Black Edition Diş Fırçasının Özel Kıl Yapısı Zincir Formundadır. Bu Kıl Yapısı Diş Fırçasının Temizleme Ve Beyazlatma Özelliğini Artırır. Fırçanın Özel Kıl Kesimi, Diş Fırçasının Arka Dişleri Daha Kolay Ulaşmasına Yardımcı Olur. Siyah Ve Zarif Tasarıma Banyonuza Tarz Katar."
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Listerine",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz4.jpg",
+                "boyut": "500 ml",
+                "fiyat":"26₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Tartar Oluşumunu Azaltır Ve Diş Lekesi Oluşmasını Engellemeye Yardımcı Olur. Dişleri Daha Temiz Ve Beyaz Tuttuğu Kanıtlanmıştır."
+            },
+            
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Listerine",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz5.jpg",
+                "boyut": "500 ml",
+                "fiyat":"35₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Günde 2 Kez Kullanıldığında Ağız Sağlığı İçin Gerekli 6 Etkisi İle Komple Ağız Bakımı Sağlar."
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Colgate",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz6.jpg",
+                "boyut": "60 ml",
+                "fiyat":"35₺",
+                "mensei": "İsviçre",
+                "Aciklama" :"Diş Macunu Nane 3-5 Yaş 60 ml"
+            }
+        ]
 	},
 	{
 		"categoryName": "Vücut Bakım",
 		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud1.jpg",
-		"Products": [{
-				"categoryName": "Vücut Bakım",
-				"marka": "Nivea",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud1.jpg",
-				"boyut": "400 ml",
-				"fiyat": "40₺",
-				"mensei": "Kanada",
-				"Aciklama": "Kıymetli Jojoba yağı, hızlı emilen losyon içine dikkatlice harmanlandı Zarif Kiraz çiçeği kokusu ile duyularınızı uyandırır Yağlı his bırakmadan 24 saat derinlemesine nemlendirme sağlar Kuru cildi yumuşak, ışıltılı bir cilde dönüştürür"
-			},
-			{
-				"categoryName": "Vücut Bakım",
-				"marka": "Old Spice",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud2.jpg",
-				"boyut": "400 ml",
-				"fiyat": "31₺",
-				"mensei": "Almanya",
-				"Aciklama": "Okyanus ortasındaki maceracı ruhlu kaptanlardan esinlenerek üretilen, gemi kamaralarından eksik olmayan koku: Old Spice Captain. De nizler altında fersah fersah boy veren, rüzgârı yelkenine göre ayarlayan, ona da adını veren esanslı erkek; limanlarda kokunla hatır lanmaya hazır mısın?"
-			},
-			{
-				"categoryName": "Vücut Bakım",
-				"marka": "Palmolive",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud3.jpg",
-				"boyut": "500 ml",
-				"fiyat": "30₺",
-				"mensei": "İngiltere",
-				"Aciklama": "Saf kil içerikli yepyeni bir Palmolive deneyimi: Kil ve okaliptus yağının ferahlık etkisi ile rahatla, nefes al, yenilen, keyif al! %100 geri dönüştürülebilir ambalaj!"
-			},
-			{
-				"categoryName": "Vücut Bakım",
-				"marka": "Palmolive",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud4.jpg",
-				"boyut": "500 ml",
-				"fiyat": "20₺",
-				"mensei": "İngiltere",
-				"Aciklama": "Saf kil içerikli yepyeni bir Palmolive deneyimi: Kil ve aloe vera özünün derin temizlik etkisi ile rahatla, nefes al, yenilen, keyif al! %100 geri dönüştürülebilir ambalaj!"
-			},
-			{
-				"categoryName": "Vücut Bakım",
-				"marka": "Palmolive",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud5.jpg",
-				"boyut": "500 ml",
-				"fiyat": "20₺",
-				"mensei": "İngiltere",
-				"Aciklama": "Palmolive Micellar Care Banyo ve Duş Jeli, içeriğindeki pamuk özü ve micellar su ile temiz ve yumuşak bir his için cildinize gerekli olan nemi kaybetmeden, cildinizde oluşan kir ve yağı bir mıknatıs gibi tutarak arınmanızı sağlar."
-			},
-			{
-				"categoryName": "Vücut Bakım",
-				"marka": "Duru",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud6.jpg",
-				"boyut": "600 ml",
-				"fiyat": "11₺",
-				"mensei": "Türkiye",
-				"Aciklama": "İçerdiği tanecikler ile her duşta cildinizi arındırır. Özel geliştirilen güçlü parfümü sizi sarar ve canlandırır. Kullanma Talimatı Eliniz veya lif ile köpürterek vücudunuza uygulayınız ve ardından durulayınız."
-			}
-		]
+        "Products":[{
+                "categoryName":"Vücut Bakım",
+                "marka": "Nivea",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud1.jpg",
+                "boyut": "400 ml",
+                "fiyat":"40₺",
+                "mensei": "Kanada",
+                "Aciklama" :"Kıymetli Jojoba yağı, hızlı emilen losyon içine dikkatlice harmanlandı Zarif Kiraz çiçeği kokusu ile duyularınızı uyandırır Yağlı his bırakmadan 24 saat derinlemesine nemlendirme sağlar Kuru cildi yumuşak, ışıltılı bir cilde dönüştürür"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Old Spice",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud2.jpg",
+                "boyut": "400 ml",
+                "fiyat":"31₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Okyanus ortasındaki maceracı ruhlu kaptanlardan esinlenerek üretilen, gemi kamaralarından eksik olmayan koku: Old Spice Captain. De nizler altında fersah fersah boy veren, rüzgârı yelkenine göre ayarlayan, ona da adını veren esanslı erkek; limanlarda kokunla hatır lanmaya hazır mısın?"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Palmolive",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud3.jpg",
+                "boyut": "500 ml",
+                "fiyat":"30₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Saf kil içerikli yepyeni bir Palmolive deneyimi: Kil ve okaliptus yağının ferahlık etkisi ile rahatla, nefes al, yenilen, keyif al! %100 geri dönüştürülebilir ambalaj!"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Palmolive",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud4.jpg",
+                "boyut": "500 ml",
+                "fiyat":"20₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Saf kil içerikli yepyeni bir Palmolive deneyimi: Kil ve aloe vera özünün derin temizlik etkisi ile rahatla, nefes al, yenilen, keyif al! %100 geri dönüştürülebilir ambalaj!"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Palmolive",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud5.jpg",
+                "boyut": "500 ml",
+                "fiyat":"20₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Palmolive Micellar Care Banyo ve Duş Jeli, içeriğindeki pamuk özü ve micellar su ile temiz ve yumuşak bir his için cildinize gerekli olan nemi kaybetmeden, cildinizde oluşan kir ve yağı bir mıknatıs gibi tutarak arınmanızı sağlar."
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Duru",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud6.jpg",
+                "boyut": "600 ml",
+                "fiyat":"11₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"İçerdiği tanecikler ile her duşta cildinizi arındırır. Özel geliştirilen güçlü parfümü sizi sarar ve canlandırır. Kullanma Talimatı Eliniz veya lif ile köpürterek vücudunuza uygulayınız ve ardından durulayınız."
+            }
+        ]
 	},
 	{
 		"categoryName": "Vitamin",
 		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin1.jpg",
-		"Products": [{
-				"categoryName": "Vitamin",
-				"marka": "Supradyn",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin1.jpg",
-				"boyut": "100 gr",
-				"fiyat": "59₺",
-				"mensei": "Almanya",
-				"Aciklama": "Supradyn yoğun yaşamınızda aktif kalmanıza yardımcı olur. İçeriğindeki B1, B2, B5, B6, B7, B12, C vitaminleri ve Demir, Kalsiyum, Bakır, İyot, Magnezyum, Mangan ile normal enerji oluşum metabolizmasına katkıda bulunur. İçeriğindeki B2, B3, B5, B6, B9, B1"
-			},
-			{
-				"categoryName": "Vitamin",
-				"marka": "Voonka",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin2.jpg",
-				"boyut": "500 mgr",
-				"fiyat": "33₺",
-				"mensei": "Almanya",
-				"Aciklama": "Voonka Vitamin C Çiğneme 62 Tablet Ürün adı: Voonka Vitamin C Çiğneme 62 Tablet İçeriği: C Vitamini - 500mg Kullanımı: Günde 1 adet çiğnenerek alınması tavsiye edilir."
-			},
-			{
-				"categoryName": "Vitamin",
-				"marka": "Orzax Ocean",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin3.jpg",
-				"boyut": "30 kapsül",
-				"fiyat": "72₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Kozmetik ürün, insan vücudunun epiderma, tırnaklar, kıllar, saçlar, dudaklar ve dış genital organlar gibi değişik dış kısımlarına, dişlere ve ağız mukozasına uygulanmak üzere hazırlanmış, tek veya temel amacı bu kısımları temizlemek, koku vermek, görünümünü değiştirmek ve/veya vücut kokularını düzeltmek ve/veya korumak veya iyi bir durumda tutmak olan bütün preparatlar veya maddeler şeklindedir."
-			},
-			{
-				"categoryName": "Vitamin",
-				"marka": "Heliocaps",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin4.jpg",
-				"boyut": "60 kapsül",
-				"fiyat": "159₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Löykotomos eğreltisi,yeşil çay,vitamin içeren takviye edici gıda."
-			},
-			{
-				"categoryName": "Vitamin",
-				"marka": "Velavit ",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin5.jpg",
-				"boyut": "30 kapsül",
-				"fiyat": "176₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Beta Glukan,Arı sütü ve D3 vitaminini bitkilerle bir araya getiren Türkiye'deki tek üründür."
-			},
-			{
-				"categoryName": "Vitamin",
-				"marka": "Bigjoy ",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin6.jpg",
-				"boyut": "1200 mgr",
-				"fiyat": "85₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Takviye edici gıda. Bigjoy Omegabig Fish Oil 1200 mg 60 Yumuşak Jel Kapsül"
-			}
-		]
+        "Products":[
+            {
+                "categoryName":"Vitamin",
+                "marka": "Supradyn",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin1.jpg",
+                "boyut": "100 gr",
+                "fiyat":"59₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Supradyn yoğun yaşamınızda aktif kalmanıza yardımcı olur. İçeriğindeki B1, B2, B5, B6, B7, B12, C vitaminleri ve Demir, Kalsiyum, Bakır, İyot, Magnezyum, Mangan ile normal enerji oluşum metabolizmasına katkıda bulunur. İçeriğindeki B2, B3, B5, B6, B9, B1"
+            },
+            {
+                "categoryName":"Vitamin",
+                "marka": "Voonka",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin2.jpg",
+                "boyut": "500 mgr",
+                "fiyat":"33₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Voonka Vitamin C Çiğneme 62 Tablet Ürün adı: Voonka Vitamin C Çiğneme 62 Tablet İçeriği: C Vitamini - 500mg Kullanımı: Günde 1 adet çiğnenerek alınması tavsiye edilir."
+            },
+            {
+                "categoryName":"Vitamin",
+                "marka": "Orzax Ocean",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin3.jpg",
+                "boyut": "30 kapsül",
+                "fiyat":"72₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Kozmetik ürün, insan vücudunun epiderma, tırnaklar, kıllar, saçlar, dudaklar ve dış genital organlar gibi değişik dış kısımlarına, dişlere ve ağız mukozasına uygulanmak üzere hazırlanmış, tek veya temel amacı bu kısımları temizlemek, koku vermek, görünümünü değiştirmek ve/veya vücut kokularını düzeltmek ve/veya korumak veya iyi bir durumda tutmak olan bütün preparatlar veya maddeler şeklindedir."
+            },
+            {
+                "categoryName":"Vitamin",
+                "marka": "Heliocaps",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin4.jpg",
+                "boyut": "60 kapsül",
+                "fiyat":"159₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Löykotomos eğreltisi,yeşil çay,vitamin içeren takviye edici gıda."
+            },	
+            {
+                "categoryName":"Vitamin",
+                "marka": "Velavit ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin5.jpg",
+                "boyut": "30 kapsül",
+                "fiyat":"176₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Beta Glukan,Arı sütü ve D3 vitaminini bitkilerle bir araya getiren Türkiye'deki tek üründür."
+            },	
+            {
+                "categoryName":"Vitamin",
+                "marka": "Bigjoy ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin6.jpg",
+                "boyut": "1200 mgr",
+                "fiyat":"85₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Takviye edici gıda. Bigjoy Omegabig Fish Oil 1200 mg 60 Yumuşak Jel Kapsül"
+            }
+        ]
 	},
 	{
 		"categoryName": "Saç Bakım",
 		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac1.jpg",
-		"Products": [{
-				"categoryName": "Saç Bakım",
-				"marka": "Dalan ",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac1.jpg",
-				"boyut": "400 ml",
-				"fiyat": "15₺",
-				"mensei": "Almanya",
-				"Aciklama": "Ege Zeytinyağı ve buğday proteini ile hazırlanan ?d?Olive Onarıcı Bakım Şampuanı? özel formulüyle saçlarınızı onararak saçlarınızın doğal güzelliğine kavuşmasını sağlar. d?Olive Şampuan?ın 2 hafta içerisinde yıpranmış saçlarınıza bakım yaparken, saçlarınızı derinl emesine beslediği ve kökten uca güçlendirerek saç kırıklarını önlediği ve saçınıza kaybettiği nemi geri kazandırdığı uluslararası ba ğımsız laboratuarlar tarafından kanıtlanmıştır."
-			},
-			{
-				"categoryName": "Saç Bakım",
-				"marka": "John Frieda ",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac2.jpg",
-				"boyut": "250 ml",
-				"fiyat": "79₺",
-				"mensei": "Almanya",
-				"Aciklama": "Kuru ve hasar görmüş saçların görünümünü onarmayı destekler; saça nemini geri kazandırır"
-			},
-			{
-				"categoryName": "Saç Bakım",
-				"marka": "Bioblas",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac3.jpg",
-				"boyut": "360 ml",
-				"fiyat": "79₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Islak saçınızın tamamına, özellikle kökten başlayarak uç kısımlarına doğru köpürterek uygulayın ve durulayın. Saçınızın ihtiyacına g öre tekrarlayın."
-			},
-			{
-				"categoryName": "Saç Bakım",
-				"marka": "Bioblas",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac4.jpg",
-				"boyut": "400 ml",
-				"fiyat": "24₺",
-				"mensei": "Türkiye",
-				"Aciklama": "Şampuan Nemlendirici Hindistan Cevizi Yağı 400 ml"
-			},
-			{
-				"categoryName": "Saç Bakım",
-				"marka": "Gliss",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac5.jpg",
-				"boyut": "200 ml",
-				"fiyat": "20₺",
-				"mensei": "İsviçre",
-				"Aciklama": "# Hassas ve yıpranmış saçları onarır ve gelecekte oluşabilecek yıpranmalara karşı koruyarak %90#a kadar daha güçlü saçlar sağlar. Kullanım # Kullanmadan önce şişeyi çalkalayın. # Her yıkamadan sonra nemli veya kuru saça uygulayın. # Durulanmaz."
-			},
-			{
-				"categoryName": "Saç Bakım",
-				"marka": "Revuele",
-				"urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac6.jpg",
-				"boyut": "200 ml",
-				"fiyat": "23₺",
-				"mensei": "İsviçre",
-				"Aciklama": "Kolay kırılan, mat, ince ve kuru saçlar için tasarlanmış şampuandır. KERATRIX® kompleksin aktif bileşenleri ile oluşturulmuş güçlü f ormül ile saçı besler, korur ve saçların parlak görünüm kazanmasına yardımcı olur. En zor saçlara bile etki eder. İçeriğinde ki akti f bileşenler nem ve beslenme sağlar. Ürünün temizleme bazı, saça zarar vermeden güçlü bir bakım sağlar ve ilk kullanımdan itibaren g örülen etkiye sahiptir. En iyi sonuçlar için kremi ile beraber kullanılması tavsiye edilir."
-			}
-		]
-	}
-
-]
+        "Products":[
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Dalan ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac1.jpg",
+                "boyut": "400 ml",
+                "fiyat":"15₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Ege Zeytinyağı ve buğday proteini ile hazırlanan ?d?Olive Onarıcı Bakım Şampuanı? özel formulüyle saçlarınızı onararak saçlarınızın doğal güzelliğine kavuşmasını sağlar. d?Olive Şampuan?ın 2 hafta içerisinde yıpranmış saçlarınıza bakım yaparken, saçlarınızı derinl emesine beslediği ve kökten uca güçlendirerek saç kırıklarını önlediği ve saçınıza kaybettiği nemi geri kazandırdığı uluslararası ba ğımsız laboratuarlar tarafından kanıtlanmıştır."
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "John Frieda ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac2.jpg",
+                "boyut": "250 ml",
+                "fiyat":"79₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Kuru ve hasar görmüş saçların görünümünü onarmayı destekler; saça nemini geri kazandırır"
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Bioblas",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac3.jpg",
+                "boyut": "360 ml",
+                "fiyat":"79₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Islak saçınızın tamamına, özellikle kökten başlayarak uç kısımlarına doğru köpürterek uygulayın ve durulayın. Saçınızın ihtiyacına g öre tekrarlayın."
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Bioblas",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac4.jpg",
+                "boyut": "400 ml",
+                "fiyat":"24₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Şampuan Nemlendirici Hindistan Cevizi Yağı 400 ml"
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Gliss",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac5.jpg",
+                "boyut": "200 ml",
+                "fiyat":"20₺",
+                "mensei": "İsviçre",
+                "Aciklama" :"# Hassas ve yıpranmış saçları onarır ve gelecekte oluşabilecek yıpranmalara karşı koruyarak %90#a kadar daha güçlü saçlar sağlar. Kullanım # Kullanmadan önce şişeyi çalkalayın. # Her yıkamadan sonra nemli veya kuru saça uygulayın. # Durulanmaz."
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Revuele",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac6.jpg",
+                "boyut": "200 ml",
+                "fiyat":"23₺",
+                "mensei": "İsviçre",
+                "Aciklama" :"Kolay kırılan, mat, ince ve kuru saçlar için tasarlanmış şampuandır. KERATRIX® kompleksin aktif bileşenleri ile oluşturulmuş güçlü f ormül ile saçı besler, korur ve saçların parlak görünüm kazanmasına yardımcı olur. En zor saçlara bile etki eder. İçeriğinde ki akti f bileşenler nem ve beslenme sağlar. Ürünün temizleme bazı, saça zarar vermeden güçlü bir bakım sağlar ve ilk kullanımdan itibaren g örülen etkiye sahiptir. En iyi sonuçlar için kremi ile beraber kullanılması tavsiye edilir."
+            }
+        ]
+	}]
+}][{
+	"Categories" :[{
+		"categoryName": "Cilt Bakım",
+		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt1.jpg",
+            "Products": [{
+                "categoryName":"Cilt Bakım",
+                "marka": "Neutrogena",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt1.jpg",
+                "boyut": "4 x 50 cm",
+                "fiyat":"37₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Nemlendirici tonik etkisi sağlar. Cildin ihtiyaç duyduğu her an, nemlendirmeden önce veya sonra pratik sprey uygulamasıyla kullanılabilir. Nemini kaybetmiş, karma veya sivilcelenmeye yatkın hassas ciltler için uygundur. Mineral Yağ, Silikon ve Sülfat"
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Garnier Skin Naturals",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt2.jpg",
+                "boyut": "2 x 25 cm",
+                "fiyat":"15₺",
+                "mensei": "Malezya",
+                "Aciklama" :"Ultra Emici Kömür İle Zenginleştirilmiş Yeni Nesil Formül İnatçı Siyah Noktaları Bile Görünür Şekilde Azaltır, Tekrar Oluşmasını Eng ellemeye Yardımcı Olur.Salisilik Asit İle Zenginleştirilmiş Formül Cildi Yoğun Bir Şekilde Temizler , Kir Ve Pürüzlerden Arındırır."
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Loreal Paris",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt3.jpg",
+                "boyut": "2 x 25 cm",
+                "fiyat":"27₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Saf Kilin Eşsiz Birleşimi-Arı Kilcildi Pürüz Ve Fazla Yağdan Arındıran, Yoğun Silikat İçeren Saf Kil.-Montmorillonit Kilicilt Kusur suzlaştırıcı, Mineraller Bakımından Zengin Saf Kil.-Rhassoul Kilicildi Temizlemeye Yardımcı Elementler Bakımından Zengin Saf Kil.L'O réal Paris Labaratuvarları 3 Saf Kili Su Yosunu Özüyle Birleştirdi Ve Cildi Kurutmadan Siyah Noktaları Temizleyen, Gözenekleri Sıkıl aştıran Kremsi Maskeyi Geliştirdi.Hızlı Ve Gözle Görülebilir Sonuçlaranında: Cilt Temizlenir Ve Mat Görünüm Kazanır."
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Nivea",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt4.jpg",
+                "boyut": "4 x 25 cm",
+                "fiyat":"50₺",
+                "mensei": "Kanada",
+                "Aciklama" :"Hızlı Emilir Ve Yağlı His Bırakmaz,48 Saat Boyunca Yoğun Nemlendirme Sağlar,Gül Kokusu"
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Garnier Skin Naturals",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt5.jpg",
+                "boyut": "200 ml",
+                "fiyat":"39₺",
+                "mensei": "Malezya",
+                "Aciklama" :"200 Ml Saf &Amp; Temiz Siyah Nokta Karşıtı Ultra Emici Kömür , Yaban Mersini Özü Ve Salisilik Asit İçeren Yağlanma Ve Pürüzlere Kar şı Temizleme Jeli-Gözenekleri Arındırır-İnatçı Siyah Noktaları Bile Azaltır-Arındırıcı Kömür-Antioksidan Yaban Mersini Özü"
+            },
+            {
+                "categoryName":"Cilt Bakım",
+                "marka": "Nivea",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/cilt6.jpg",
+                "boyut": "200 ml",
+                "fiyat":"25₺",
+                "mensei": "Kanada",
+                "Aciklama" :"Aqua Sensation Temizleme Jeli, Hydra Iq Ve Salatalık Özü İçeren Formülü İle Canlı Ve Dolgun Bir Cilt İçin En İyi Temizleme Etkisini Sağlar.Nazikçe Ve Tamamen Temizler.Derinlemesine Arındırır.Kiri Ve Makyajı Etkili Bir Şekilde Çıkarır. Cildin Doğal Nem Dengesini Ko rur.Cildi Tazeler Ve Cilde Canlanmış Bir Görünüm Verir."
+            }
+        ]},
+	{
+		"categoryName": "Anne-Bebek",
+		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne1.jpg",
+        "Products":[{
+                "categoryName":"Anne-Bebek",
+                "marka": "Bebelac",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne1.jpg",
+                "boyut": "1 Kg",
+                "fiyat":"100₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Bebelac 1, doğduğu aydan itibaren bebeklerin beslenme ihtiyaçları dikkate alınarak geliştirilmiştir. Koruyucu madde ve ilave şeker içermez. Önemli uzun zincirli yağ asitleri (LCPUFA) Omega 3 ve Omega 6 ilave edilmiştir. Kolay çözünebilir formülü sayesinde"
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Uni",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz2.jpg",
+                "boyut": "700 ml",
+                "fiyat":"19₺",
+                "mensei": "Hollanda",
+                "Aciklama" :"Uni Baby saç ve vücut şampuanı. Göz yakmayan özel formüle sahiptir. Alkol ve paraben içermez."
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Dalin",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne3.jpg",
+                "boyut": "500 ml",
+                "fiyat":"34₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Klinik testlerle kanıtlanmış, göz yakmayan saf formülü bebeğinize özel olarak geliştirilmiştir. İçeriğindeki papatya özleri cildini rahatlatır. ilk günden itibaren hem saçında hem cildinde güvenle kullanabilir, mis kokulu Dalin banyolarının keyfini çıkarabilirsiniz. + Klinik testlerle yumuşaklığı kanıtlanmıştır. + Hipoalerjeniktir. + Cildin pH değeri ile uyumludur. + Eşsiz papatya özlü parfümüyle mis gibi kokar. - Alkol, paraben, SLS sabun içermez."
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Sebamed",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne4.jpg",
+                "boyut": "500 ml",
+                "fiyat":"59₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Sabun ve alkali madde içermeyen yumuşak formülü ile bebek ve çocukların hassas saç derisi ve saç bakımı için idealdir. pH 5.5 değeri ile cildi zararlı dış etkenlere karşı korur. Yüksek cilt toleransı ve yumuşak temizleme formülü sayesinde kuruluk ve tahriş riskini azaltır. Papatya'dan gelen doğal içeriği sayesinde cildi yatıştırır ve rahatlatır. Sağlıklı saçlar için gerekli bakımı yapar. Saçın güzel kokmasını, ipeksi bir görünüm almasını ve kolay taranmasını sağlar. Gözleri yakmaz fakat şampuanın direk gözle temasından kaçının,gözle temas durumunda derhal bol suyla durulayın.Dermatolojik olarak test edilmiştir."
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Sleepy",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne5.jpg",
+                "boyut": "3 x 50 cm",
+                "fiyat":"14₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Sensitive Islak Havlu 3X50"
+            },
+            {
+                "categoryName":"Anne-Bebek",
+                "marka": "Dalin",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/anne6.jpg",
+                "boyut": "100 ml",
+                "fiyat":"12₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Hindistan Cevizli Vazelin 100ml"
+            }
+        ]
+	},
+	{
+		"categoryName": "Ağız-Diş",
+		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz1.jpg",
+        "Products":[{
+                "categoryName":"Ağız-Diş",
+                "marka": "Signal",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz1.jpg",
+                "boyut": "3+1",
+                "fiyat":"29₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Signal Megas Action 3+1 Diş Fırçası Yuvarlanmış kıl uçları, fırçalarken daha rahat hareket ettirebilmeniz için kompakt baş, ergonomik sap"
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Rocs",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz2.jpg",
+                "boyut": "1 adet",
+                "fiyat":"35₺",
+                "mensei": "Malezya",
+                "Aciklama" :"R.O.C.S. Gum Balm, dişeti bakımı için geliştirilmiş bitkisel balsam formunda diş macunudur. İltihaba karşı etkisi ve antioksidan özellikleri bilinen Kavak Ağacı (Aspen Bark) ekstresi içeriği ile dişetlerini korumaya yardımcı olur. Sodium Bicarbonate içeriği dişeti şişkinliğini azaltırken ağız içi asiditesini normalize eder. Diş minesini yüksek miktardaki kalsiyum ve fosfat ile re-mineralize eder. Huş ağacından elde edilen Ksilitol (%6) içeriği plak oluşumunu azaltır, ağız içi bakteriyel dengeyi normalize eder. Kısa sürede gözle görülür etki sağlar. Florür, triclosan ve klorheksidin içermez."
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Rocs",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz3.jpg",
+                "boyut": "1 adet",
+                "fiyat":"25₺",
+                "mensei": "Malezya",
+                "Aciklama" :"R.O.C.S. Black Edition Diş Fırçasının Özel Kıl Yapısı Zincir Formundadır. Bu Kıl Yapısı Diş Fırçasının Temizleme Ve Beyazlatma Özelliğini Artırır. Fırçanın Özel Kıl Kesimi, Diş Fırçasının Arka Dişleri Daha Kolay Ulaşmasına Yardımcı Olur. Siyah Ve Zarif Tasarıma Banyonuza Tarz Katar."
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Listerine",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz4.jpg",
+                "boyut": "500 ml",
+                "fiyat":"26₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Tartar Oluşumunu Azaltır Ve Diş Lekesi Oluşmasını Engellemeye Yardımcı Olur. Dişleri Daha Temiz Ve Beyaz Tuttuğu Kanıtlanmıştır."
+            },
+            
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Listerine",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz5.jpg",
+                "boyut": "500 ml",
+                "fiyat":"35₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Günde 2 Kez Kullanıldığında Ağız Sağlığı İçin Gerekli 6 Etkisi İle Komple Ağız Bakımı Sağlar."
+            },
+            {
+                "categoryName":"Ağız-Diş",
+                "marka": "Colgate",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/agiz6.jpg",
+                "boyut": "60 ml",
+                "fiyat":"35₺",
+                "mensei": "İsviçre",
+                "Aciklama" :"Diş Macunu Nane 3-5 Yaş 60 ml"
+            }
+        ]
+	},
+	{
+		"categoryName": "Vücut Bakım",
+		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud1.jpg",
+        "Products":[{
+                "categoryName":"Vücut Bakım",
+                "marka": "Nivea",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud1.jpg",
+                "boyut": "400 ml",
+                "fiyat":"40₺",
+                "mensei": "Kanada",
+                "Aciklama" :"Kıymetli Jojoba yağı, hızlı emilen losyon içine dikkatlice harmanlandı Zarif Kiraz çiçeği kokusu ile duyularınızı uyandırır Yağlı his bırakmadan 24 saat derinlemesine nemlendirme sağlar Kuru cildi yumuşak, ışıltılı bir cilde dönüştürür"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Old Spice",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud2.jpg",
+                "boyut": "400 ml",
+                "fiyat":"31₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Okyanus ortasındaki maceracı ruhlu kaptanlardan esinlenerek üretilen, gemi kamaralarından eksik olmayan koku: Old Spice Captain. De nizler altında fersah fersah boy veren, rüzgârı yelkenine göre ayarlayan, ona da adını veren esanslı erkek; limanlarda kokunla hatır lanmaya hazır mısın?"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Palmolive",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud3.jpg",
+                "boyut": "500 ml",
+                "fiyat":"30₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Saf kil içerikli yepyeni bir Palmolive deneyimi: Kil ve okaliptus yağının ferahlık etkisi ile rahatla, nefes al, yenilen, keyif al! %100 geri dönüştürülebilir ambalaj!"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Palmolive",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud4.jpg",
+                "boyut": "500 ml",
+                "fiyat":"20₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Saf kil içerikli yepyeni bir Palmolive deneyimi: Kil ve aloe vera özünün derin temizlik etkisi ile rahatla, nefes al, yenilen, keyif al! %100 geri dönüştürülebilir ambalaj!"
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Palmolive",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud5.jpg",
+                "boyut": "500 ml",
+                "fiyat":"20₺",
+                "mensei": "İngiltere",
+                "Aciklama" :"Palmolive Micellar Care Banyo ve Duş Jeli, içeriğindeki pamuk özü ve micellar su ile temiz ve yumuşak bir his için cildinize gerekli olan nemi kaybetmeden, cildinizde oluşan kir ve yağı bir mıknatıs gibi tutarak arınmanızı sağlar."
+            },
+            {
+                "categoryName":"Vücut Bakım",
+                "marka": "Duru",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vucud6.jpg",
+                "boyut": "600 ml",
+                "fiyat":"11₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"İçerdiği tanecikler ile her duşta cildinizi arındırır. Özel geliştirilen güçlü parfümü sizi sarar ve canlandırır. Kullanma Talimatı Eliniz veya lif ile köpürterek vücudunuza uygulayınız ve ardından durulayınız."
+            }
+        ]
+	},
+	{
+		"categoryName": "Vitamin",
+		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin1.jpg",
+        "Products":[
+            {
+                "categoryName":"Vitamin",
+                "marka": "Supradyn",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin1.jpg",
+                "boyut": "100 gr",
+                "fiyat":"59₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Supradyn yoğun yaşamınızda aktif kalmanıza yardımcı olur. İçeriğindeki B1, B2, B5, B6, B7, B12, C vitaminleri ve Demir, Kalsiyum, Bakır, İyot, Magnezyum, Mangan ile normal enerji oluşum metabolizmasına katkıda bulunur. İçeriğindeki B2, B3, B5, B6, B9, B1"
+            },
+            {
+                "categoryName":"Vitamin",
+                "marka": "Voonka",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin2.jpg",
+                "boyut": "500 mgr",
+                "fiyat":"33₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Voonka Vitamin C Çiğneme 62 Tablet Ürün adı: Voonka Vitamin C Çiğneme 62 Tablet İçeriği: C Vitamini - 500mg Kullanımı: Günde 1 adet çiğnenerek alınması tavsiye edilir."
+            },
+            {
+                "categoryName":"Vitamin",
+                "marka": "Orzax Ocean",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin3.jpg",
+                "boyut": "30 kapsül",
+                "fiyat":"72₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Kozmetik ürün, insan vücudunun epiderma, tırnaklar, kıllar, saçlar, dudaklar ve dış genital organlar gibi değişik dış kısımlarına, dişlere ve ağız mukozasına uygulanmak üzere hazırlanmış, tek veya temel amacı bu kısımları temizlemek, koku vermek, görünümünü değiştirmek ve/veya vücut kokularını düzeltmek ve/veya korumak veya iyi bir durumda tutmak olan bütün preparatlar veya maddeler şeklindedir."
+            },
+            {
+                "categoryName":"Vitamin",
+                "marka": "Heliocaps",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin4.jpg",
+                "boyut": "60 kapsül",
+                "fiyat":"159₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Löykotomos eğreltisi,yeşil çay,vitamin içeren takviye edici gıda."
+            },	
+            {
+                "categoryName":"Vitamin",
+                "marka": "Velavit ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin5.jpg",
+                "boyut": "30 kapsül",
+                "fiyat":"176₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Beta Glukan,Arı sütü ve D3 vitaminini bitkilerle bir araya getiren Türkiye'deki tek üründür."
+            },	
+            {
+                "categoryName":"Vitamin",
+                "marka": "Bigjoy ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/vitamin6.jpg",
+                "boyut": "1200 mgr",
+                "fiyat":"85₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Takviye edici gıda. Bigjoy Omegabig Fish Oil 1200 mg 60 Yumuşak Jel Kapsül"
+            }
+        ]
+	},
+	{
+		"categoryName": "Saç Bakım",
+		"imageURL": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac1.jpg",
+        "Products":[
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Dalan ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac1.jpg",
+                "boyut": "400 ml",
+                "fiyat":"15₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Ege Zeytinyağı ve buğday proteini ile hazırlanan ?d?Olive Onarıcı Bakım Şampuanı? özel formulüyle saçlarınızı onararak saçlarınızın doğal güzelliğine kavuşmasını sağlar. d?Olive Şampuan?ın 2 hafta içerisinde yıpranmış saçlarınıza bakım yaparken, saçlarınızı derinl emesine beslediği ve kökten uca güçlendirerek saç kırıklarını önlediği ve saçınıza kaybettiği nemi geri kazandırdığı uluslararası ba ğımsız laboratuarlar tarafından kanıtlanmıştır."
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "John Frieda ",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac2.jpg",
+                "boyut": "250 ml",
+                "fiyat":"79₺",
+                "mensei": "Almanya",
+                "Aciklama" :"Kuru ve hasar görmüş saçların görünümünü onarmayı destekler; saça nemini geri kazandırır"
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Bioblas",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac3.jpg",
+                "boyut": "360 ml",
+                "fiyat":"79₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Islak saçınızın tamamına, özellikle kökten başlayarak uç kısımlarına doğru köpürterek uygulayın ve durulayın. Saçınızın ihtiyacına g öre tekrarlayın."
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Bioblas",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac4.jpg",
+                "boyut": "400 ml",
+                "fiyat":"24₺",
+                "mensei": "Türkiye",
+                "Aciklama" :"Şampuan Nemlendirici Hindistan Cevizi Yağı 400 ml"
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Gliss",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac5.jpg",
+                "boyut": "200 ml",
+                "fiyat":"20₺",
+                "mensei": "İsviçre",
+                "Aciklama" :"# Hassas ve yıpranmış saçları onarır ve gelecekte oluşabilecek yıpranmalara karşı koruyarak %90#a kadar daha güçlü saçlar sağlar. Kullanım # Kullanmadan önce şişeyi çalkalayın. # Her yıkamadan sonra nemli veya kuru saça uygulayın. # Durulanmaz."
+            },
+            {
+                "categoryName":"Saç Bakım",
+                "marka": "Revuele",
+                "urunResim": "https://raw.githubusercontent.com/Sirrisamet53/IlacinKapindaWebService/main/sac6.jpg",
+                "boyut": "200 ml",
+                "fiyat":"23₺",
+                "mensei": "İsviçre",
+                "Aciklama" :"Kolay kırılan, mat, ince ve kuru saçlar için tasarlanmış şampuandır. KERATRIX® kompleksin aktif bileşenleri ile oluşturulmuş güçlü f ormül ile saçı besler, korur ve saçların parlak görünüm kazanmasına yardımcı olur. En zor saçlara bile etki eder. İçeriğinde ki akti f bileşenler nem ve beslenme sağlar. Ürünün temizleme bazı, saça zarar vermeden güçlü bir bakım sağlar ve ilk kullanımdan itibaren g örülen etkiye sahiptir. En iyi sonuçlar için kremi ile beraber kullanılması tavsiye edilir."
+            }
+        ]
+	}]
+}]
